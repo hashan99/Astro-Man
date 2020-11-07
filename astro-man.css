@@ -1,7 +1,7 @@
 body {
   /*background: #fafaf0;
   background: #121317;*/
-  background:url(../images/astro-man.jpg) no-repeat;
+  background:url(images/astro-man.jpg) no-repeat;
   background-size: cover;
   display: -webkit-box;
   display: flex;
